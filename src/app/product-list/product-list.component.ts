@@ -11,7 +11,7 @@ export class ProductListComponent {
   products = products;
 
   share() {
-    window.alert('O produto foi incluído!');
+    window.alert('O produto foi incluído no carrinho!');
   }
 }
 
