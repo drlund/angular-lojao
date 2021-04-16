@@ -1,21 +1,21 @@
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'Calça Jeans Regular Fit',
+    price: 79,
+    description: 'Calça em tecido jeans escuro em tamanhos P, M e G'
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'Camisa manga longa',
+    price: 49,
+    description: 'Camisa de malha 100% algodão'
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: 'Conjunto de meias',
+    price: 19,
+    description: 'Conjunto com 3 meias tamanho único'
   }
 ];
 
