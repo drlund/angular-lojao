@@ -1,3 +1,3 @@
-# angular-lpuzxk
+# angular11
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-lpuzxk)
+App de e-commerce baseada em Angular 11.
